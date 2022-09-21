@@ -1,0 +1,4 @@
+click
+Flask
+looker_sdk
+Werkzeug
